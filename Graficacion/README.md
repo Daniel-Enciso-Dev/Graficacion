@@ -1,1 +1,1 @@
-"# Graficacion"  
+# Graficacion
